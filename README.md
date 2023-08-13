@@ -1,6 +1,5 @@
 # Serverless-DynamoDB-Kinesis-Lambda
 Serverless Architectures with Amazon DynamoDB and Amazon Kinesis Streams with AWS Lambda
-SPL-51 Version 3.2.13
 
 
 Lab Overview
